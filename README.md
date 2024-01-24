@@ -2,7 +2,7 @@
 <h3 align="center">Currently residing in Türkiye, I'm a junior member of the software development community. </h3> 
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/2mrf5qgev8p61.gif">
  
-- 📫 How to reach me **mustafakaradas07@gmail.com**
+- 📫 How to reach me **mustafakaradas097@gmail.com**
  
 - Please click on the link to review our HUMAN RESOURCES MANAGEMENT SYSTEM PROJECT.
 https://www.linkedin.com/posts/ugcPost-7150192540858605568-Ywbo?utm_source=share&utm_medium=member_android
